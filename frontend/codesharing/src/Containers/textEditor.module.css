@@ -1,0 +1,6 @@
+.Main{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(95, 121, 150);
+    position: fixed;
+}
