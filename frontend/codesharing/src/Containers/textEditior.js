@@ -12,7 +12,7 @@ class TextEditor extends Component {
     }
 
     componentDidMount() {
-console.log("ok");
+
     }
 
     componentDidUpdate() {
