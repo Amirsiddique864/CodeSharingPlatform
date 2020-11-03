@@ -7,7 +7,7 @@ const userRoutes = require('./routes/routes');
 const authRoutes = require('./routes/authRoutes'); 
 
 const app = express();
-const MONGODB_URI = 'mongodb+srv://bhavesh_05:Bhavesh2017@cluster0-yuok1.mongodb.net/codeshare?retryWrites=true&w=majority';
+const MONGODB_URI = 'mongodb+srv://AmirSiddique:amir1234s@cluster0.pofsu.mongodb.net/CodeSharing?retryWrites=true&w=majority';
 
 app.use(cors());
 app.use(bodyParser.json());
